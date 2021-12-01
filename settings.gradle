@@ -1,0 +1,22 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "healthycare"
+include ':M_a01'
+include ':M_b00'
+include ':M_f01'
+include ':M_g001'
+include ':M_g01'
+include ':M_g002'
+include ':M_g02'
+include ':M_g003'
+include ':M_g004'
+include ':M_g005'
+include ':M_g999'
+include ':M_l01'
+include ':app'
