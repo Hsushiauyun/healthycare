@@ -43,7 +43,7 @@ public class M_f001 extends AppCompatActivity {
             switch(v.getId()){
                 case R.id.mF_b003:
                     intent.putExtra("class_title",getString(R.string.mL_b002));
-                    intent.setClass(M_f001.this,M_f002.class); //程式 從 M0607 到 M0500
+                    intent.setClass(M_f001.this,M_f002.class); //程式 從 M_f001 到 M_f002
                     break;
 
             }

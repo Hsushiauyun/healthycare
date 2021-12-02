@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">健康照護通</string>
+    <string name="title_home">數值上傳</string>
+    <string name="title_dashboard">營養管家</string>
+    <string name="title_notifications">要活動</string>
+    <string name="title_ambulance">救護車</string>
+</resources>
